@@ -1,0 +1,23 @@
+body {
+    min-width: 300px;
+    font-family: Arial, sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+li {
+    margin: 5px 0;
+}
+
+button {
+    margin: 10px 0;
+    padding: 5px 10px;
+}
